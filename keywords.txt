@@ -1,0 +1,15 @@
+# Syntax Coloring Map For ParticleDetector
+
+# Instance (KEYWORD1)
+# Methods and Functions (KEYWORD2)
+
+ParticleDetector			KEYWORD1
+getDetections				KEYWORD2
+getTimeSinceLastDetection 	KEYWORD2
+getDetectionsPerMin 		KEYWORD2
+getAvgTimeBetweenDetections KEYWORD2
+getAvgMagnitude 			KEYWORD2
+
+# Constants	(LITERAL1)
+
+
